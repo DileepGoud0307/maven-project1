@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>devops91</finalName>
+    <finalName>Maven.06</finalName>
   </build>
 </project>
