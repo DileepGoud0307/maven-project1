@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Maven.06</finalName>
+    <finalName>Maven.07</finalName>
   </build>
 </project>

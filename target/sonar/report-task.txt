@@ -1,0 +1,6 @@
+projectKey=testproject:ProjectWeb
+serverUrl=http://slave.hadoop.com:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://slave.hadoop.com:9000/dashboard?id=testproject%3AProjectWeb
+ceTaskId=6a045a1f-7325-4138-b306-cc2083d067fd
+ceTaskUrl=http://slave.hadoop.com:9000/api/ce/task?id=6a045a1f-7325-4138-b306-cc2083d067fd
